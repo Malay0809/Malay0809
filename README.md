@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malay Kumar
 - 👀 I’m interested in  Software development
-- Currently working on 5G Technology (AMF) in Mavenir Systems
+- Currently working on 5G Technology📶(AMF) in Mavenir Systems
 - 🌱 I’m currently learning Python and AI
 - 📫 How to reach me ... malaykumar1326@gmail.com
 - 
